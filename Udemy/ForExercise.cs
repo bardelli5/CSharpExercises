@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Net.Mail;
 
-namespace Udemy {
+/* namespace Udemy {
     internal class ForExercises {
         static void Main(string[] args) {
 
@@ -24,4 +24,4 @@ namespace Udemy {
             Console.WriteLine(sumOut + " out");
         }
     }
-}
+}*/
