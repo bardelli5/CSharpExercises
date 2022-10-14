@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Net.Mail;
 
-namespace Udemy {
+/*namespace Udemy.ForExercises {
     internal class ForExercises {
         static void Main(string[] args) {
 
@@ -11,7 +11,7 @@ namespace Udemy {
             for (int i = 1; i <= n; i++) {
                 Console.WriteLine(i + " " + Math.Pow(i, 2) + " " + Math.Pow(i, 3));
             }
-            
+
         }
     }
-}
+}*/
