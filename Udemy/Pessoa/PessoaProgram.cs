@@ -2,7 +2,7 @@
 using System.Globalization;
 using Udemy.Pessoa;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -31,4 +31,4 @@ namespace Course {
             }
         }
     }
-}
+}*/
