@@ -2,7 +2,7 @@
 using System.Globalization;
 using Udemy.Funcionario;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
             
@@ -25,4 +25,4 @@ namespace Course {
             Console.WriteLine("Salario Medio: " + salaryAvg.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
-}
+}*/
