@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using Udemy.Notas;
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -25,4 +25,4 @@ namespace Course {
             }
         }
     }
-}
+}*/
