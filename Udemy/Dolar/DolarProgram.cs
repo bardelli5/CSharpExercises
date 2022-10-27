@@ -2,7 +2,7 @@
 using System.Globalization;
 using Udemy.ConversorDeMoeda;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -17,4 +17,4 @@ namespace Course {
             Console.WriteLine("Valor a ser pago em reais = " + total.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
-}
+}*/
