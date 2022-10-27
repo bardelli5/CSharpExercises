@@ -11,7 +11,7 @@ namespace Course {
             int accountNumber = int.Parse(Console.ReadLine());
             Console.Write("Entre o titular da conta: ");
             string holder = Console.ReadLine();
-            Console.Write("Haverá depósito inicial? ");
+            Console.Write("Haverá depósito inicial (s/n)? ");
             char resposta = char.Parse(Console.ReadLine());
 
             while (resposta != 's' && resposta != 'n') {

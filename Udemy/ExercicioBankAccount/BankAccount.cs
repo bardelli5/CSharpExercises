@@ -4,7 +4,7 @@ using System.Globalization;
 namespace Udemy {
     internal class BankAccount {
 
-        public int AccountNumber { get; }  //n pode ser alterado
+        public int AccountNumber { get; private set; }  //n pode ser alterado
         public string Holder { get; set; }
         public double Balance { get; private set; } //n pode ser alterado
 
