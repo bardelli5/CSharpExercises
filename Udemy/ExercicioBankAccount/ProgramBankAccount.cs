@@ -2,7 +2,7 @@
 using System;
 using Udemy;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -15,7 +15,7 @@ namespace Course {
             char resposta = char.Parse(Console.ReadLine());
 
             while (resposta != 's' && resposta != 'n') {
-                Console.WriteLine("resposta inválida, tente novamente: ");
+                Console.WriteLine("Resposta inválida, tente novamente: ");
                 resposta = char.Parse(Console.ReadLine());
             }
             if (resposta == 's') {
@@ -47,4 +47,4 @@ namespace Course {
             Console.WriteLine(account);
         }
     }
-}
+}*/
