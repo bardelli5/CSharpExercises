@@ -1,7 +1,7 @@
 ﻿using System;
 using Udemy.Pensionato;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -31,4 +31,4 @@ namespace Course {
             }
         }
     }
-}
+}*/
