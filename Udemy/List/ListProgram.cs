@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Collections.Generic;
 using Udemy.List;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -46,4 +46,4 @@ namespace Course {
             }
         }
     }
-}
+}*/
