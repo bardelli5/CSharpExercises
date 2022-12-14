@@ -26,13 +26,12 @@ namespace Udemy.EntitiesWorker
 
         public void AddContract(HourContract contract)
         {
-        Contracts.Add(contract);
+            Contracts.Add(contract);
         }
         public void RemoveContract(HourContract contract)
         {
-        Contracts.Remove(contract);
+            Contracts.Remove(contract);
         }
-
         public double Income(int year, int month)
         {
         double sum = BaseSalary;

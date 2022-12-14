@@ -3,7 +3,7 @@ using System.Globalization;
 using Udemy.EntitiesWorker;
 using Udemy.EntitiesWorker.Enums;
 
-namespace Udemy
+/*namespace Udemy
     {
     class Program
         {
@@ -49,4 +49,4 @@ namespace Udemy
             Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));
             }
         }
-    }
+    }*/
