@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Course {
+/*namespace Course {
     class Program {
         static void Main(string[] args) {
 
@@ -54,7 +54,7 @@ namespace Course {
             Console.WriteLine(t10);
             Console.WriteLine(t11);
 
-            /*
+            
              
             Boa prática
             • Armazenar em formato UTC (texto: BD / Json / XML)
@@ -84,9 +84,6 @@ namespace Course {
                 Console.WriteLine("d3 to Local: " + d3.ToLocalTime());
                 Console.WriteLine("d3 to Utc: " + d3.ToUniversalTime());
              
-             */
-
-
             }
         }
-    }
+    }*/
