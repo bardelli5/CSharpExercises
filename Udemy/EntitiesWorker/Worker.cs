@@ -16,13 +16,14 @@ namespace Udemy.EntitiesWorker
             {
             }
 
-        public Worker(string name, WorkerLevel level, double baseSalary)
+        public Worker(string name, WorkerLevel level, double baseSalary, Department department)
             {
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
+            Department = department;
             }
-        
+
         public void AddContract(HourContract contract)
         {
         Contracts.Add(contract);
