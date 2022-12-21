@@ -1,2 +1,2 @@
 # CSharpExercises
-Meu aprendizado sobre a linguagem C#, com resolução de exericios e aplicação de conceitos.
+Meu aprendizado sobre a linguagem C#, com resolução de exercicios e aplicação de conceitos.
