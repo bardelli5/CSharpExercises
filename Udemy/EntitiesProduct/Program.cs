@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using Udemy.EntitiesProduct;
 
-namespace Udemy
+/*namespace Udemy
     {
     class Program
         {
@@ -57,4 +57,4 @@ namespace Udemy
 
             }
         }
-    }
+    }*/
