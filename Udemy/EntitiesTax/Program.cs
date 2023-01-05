@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using Udemy.EntitiesTax;
 
-namespace Udemy {
+/*namespace Udemy {
     class Program {
         static void Main(string[] args) {
             List<TaxPayer> taxPayers = new List<TaxPayer>();
@@ -46,4 +46,4 @@ namespace Udemy {
 
         }
     }
-}
+}*/

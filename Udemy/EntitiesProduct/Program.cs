@@ -49,6 +49,7 @@ using Udemy.EntitiesProduct;
                     }
                 }
 
+            Console.WriteLine();
             Console.WriteLine("PRICE TAGS:");
             foreach (Product priceTagList in prodList)
                 {
